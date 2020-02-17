@@ -62,3 +62,8 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
+Markdown | Less | Pretty
+| --- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+- [x] Yes | - [x] No |
