@@ -66,4 +66,14 @@ Markdown | Less | Pretty
 | --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-- [x] Yes | - [x] No |
+- [x] Yes | - [x] No | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+
+
+| Checkbox Experiments | [ ] unchecked header  | [x] checked header  |
+| ---------------------|:---------------------:|:-------------------:|
+| checkbox             | [ ] row               | [x] row             |
+
+
+Function | MySQL / MariaDB | PostgreSQL | SQLite
+:------------ | :-------------| :-------------| :-------------
+substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
